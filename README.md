@@ -6,15 +6,15 @@ This repository is purely dedicated to the existing machine learning models in t
 I have branched the main repository to sub-branches for proper segregation of the projects on the basis of ML models used.
 
 **Repository Branches :-** <br />
--> Logistic Regression <br />
--> Support-Vector Machine(SVM)<br />
+- > Logistic Regression <br />
+- > Support-Vector Machine(SVM)<br />
 
 The repository also displays the use of python Library.<br />
 **Python Library in use :-** <br />
-• Numpy<br />
-• Pandas<br />
-• sklearn<br />
-• matplotlib<br />
+* Numpy<br />
+* Pandas<br />
+* sklearn<br />
+* matplotlib<br />
 
 **How to Use?** <br />
 1. Open the file using the google colab link on top of the .ipynb file. <br />
