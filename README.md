@@ -17,8 +17,8 @@ The repository also displays the use of python Library.<br />
 * matplotlib<br />
 
 **How to Use?** <br />
-1. Open the file using the google colab link on top of the .ipynb file. <br />
+1. Open the file using the Google Colab link on top of the .ipynb file. <br />
 2. Download the .csv file <br />
-3. Upload the .csv file in google colb <br />
+3. Upload the .csv file in Google Colab <br />
 4. Click on 'Connect' for runtime environment <br />
 5. Execute each cell in order for proper output
